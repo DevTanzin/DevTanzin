@@ -1,5 +1,6 @@
 # 💫 About Me:
 estudante em **tecnologia**<br>especificamente **front** **end** <br>a caminho do **back** **end**<br>com objetivo final ser **fullstack**
+Desenvolvimento Web 
 
 
 ## 🌐 Socials:
